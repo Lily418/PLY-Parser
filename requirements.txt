@@ -1,0 +1,6 @@
+GDAL==1.10.1
+ply==3.4
+pydot==1.0.2
+pyparsing==2.0.3
+wsgiref==0.1.2
+wxPython-common==3.0.0.0
